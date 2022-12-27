@@ -4,5 +4,6 @@ A pre-installed and activated [Smush It](https://wordpress.org/plugins/wp-smushi
 
 >**Note:** Lazy Loading feature is provided by default in WordPress, and is therefore not enabled in Smush.
 
-![WP Smush compress on upload](./media/wp_image_compression_1.png)
+<img src="./media/wp_image_compression_1.png" alt="WP Smush compress on upload">
+
 ![WP Smush compress images](./media/wp_image_compression_2.png)
