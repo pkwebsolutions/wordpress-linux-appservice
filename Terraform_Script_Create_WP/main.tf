@@ -207,7 +207,8 @@ resource "azurerm_mysql_flexible_server" "mysql_db_server" {
   administrator_login          = var.mysql_server_username
   administrator_password       = var.mysql_server_password
   tags                         = var.tags
-  //zone                         = 1
+  zone                         = 3
+  
   storage {
     size_gb = var.mysql_db_storage_size_gb
     iops    = var.mysql_db_storage_iops
